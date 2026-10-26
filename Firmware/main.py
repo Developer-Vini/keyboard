@@ -23,4 +23,11 @@ for pin in PINOS_ROW:
     rmk.pull = digitalio.Pull.DOWN 
     rows.append(rmk)
 
-
+while True:
+    for col_index, collumn in enumerate(cols):
+        collumn.value = True
+        for row_index, row in enumerate(rows):
+            if row.value:
+                print("Key: row", row_index, "collumn", col_index)
+        collumn.value = False
+    time.sleep(0.05)
