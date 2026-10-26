@@ -12,6 +12,17 @@ It has the main letter, number, and symbol keys, as well as keys such as the arr
 <img width="1010" height="368" alt="Screenshot_1" src="https://github.com/user-attachments/assets/b0c64295-bfcd-44dc-8839-41335232f39e" />
 <img width="1444" height="572" alt="front_pcb" src="https://github.com/user-attachments/assets/3562a8d1-4a6e-404b-bcb3-3663f8fe4406" />
 
+# Case
+<img width="1281" height="485" alt="image" src="https://github.com/user-attachments/assets/c4a446ea-9434-4d48-b430-99a7617eb2ff" />
+<img width="1037" height="485" alt="image" src="https://github.com/user-attachments/assets/3832093b-0335-4167-b11e-eeb8e525b78f" />
+<img width="1779" height="281" alt="image" src="https://github.com/user-attachments/assets/287c1ba9-869b-49c4-980d-23ea1152aa1e" />
+
+<img width="1084" height="517" alt="image" src="https://github.com/user-attachments/assets/bd43103a-bdd0-4b8a-88db-04b35b04d72a" />
+<img width="1033" height="447" alt="image" src="https://github.com/user-attachments/assets/d51b2c8f-1bd3-454a-ba2d-cb5d7c9dae69" />
+<img width="992" height="438" alt="image" src="https://github.com/user-attachments/assets/aff52025-b4a0-4ce6-8beb-c5dab01a9263" />
+<img width="998" height="438" alt="image" src="https://github.com/user-attachments/assets/cb4b03a3-cd43-4404-8de6-bab417d41372" />
+
+
 
 # PCB
 
